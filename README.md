@@ -9,6 +9,6 @@ M. Taufiq Rafiandi / 18117035
 Tugas#1 Kamus Alay (11/09/2019) </br>
   Program mengubah kata alay yang terdiri dari huruf dan angka menjadi kata normal. </br>
 
-Tugas#2 Tutorial Pandas (01/10/209) </br>
+Tugas#2 Tutorial Pandas (02/10/209) </br>
   Mencoba syntax Pandas
 

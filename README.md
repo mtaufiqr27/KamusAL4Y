@@ -15,5 +15,8 @@ Tugas#2 Tutorial Pandas (02/10/2019) </br>
 Tugas#3 Tutorial Numpy(09/10/2019) </br>
   Mencoba syntax Numpy </br>
   
-Tugas#4 Tutorial StatsticsNumpy(09/10/2019) </br>
-  Mencoba syntax StatiscticsNumpy </br>
+Tugas#4 Tutorial StatisticsNumpy(09/10/2019) </br>
+  Mencoba syntax StatisticsNumpy </br>
+ 
+ "Daripada Ngoding, Mending Olahraga!" 
+ -Guru Olahraga bergelar S.Kom-
